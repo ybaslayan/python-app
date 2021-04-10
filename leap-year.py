@@ -1,3 +1,6 @@
+Bu formül çalışıyor
+Başka formüllerde var çalışan
+
 year = int(input("Please Enter The 4-Digit Year To See If It Is A Leap Year : "))
 leap_y1 =bool(int(year) % 4 == 0)
 leap_y2 = bool(int (year) % 100 !=0)
